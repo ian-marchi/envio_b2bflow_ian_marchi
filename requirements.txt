@@ -1,5 +1,3 @@
 supabase
 python-dotenv
 requests
-Flask
-flask-cors
