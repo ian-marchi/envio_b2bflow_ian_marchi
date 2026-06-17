@@ -7,7 +7,6 @@ from supabase import create_client
 
 load_dotenv()
 
-
 def getenv_detect(nome: str) -> str:
     valor = os.getenv(nome)
     if valor is None:
